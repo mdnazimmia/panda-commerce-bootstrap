@@ -13,3 +13,15 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+
+.panda-bg-warning {
+    background-color: #ffa500;
+}
+
+.panda-bg-success {
+    background-color: #da70d6;
+}
+
+.panda-bg-primary {
+    background-color: #0000ff;
+}
